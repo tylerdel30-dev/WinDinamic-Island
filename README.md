@@ -1,4 +1,5 @@
 WinDinamic Island is a Application that brings the dynamic island from your iphone to your desktop with even more features.
+### NOTE: WHEN RUNNING THE APPLICATION CAN MAKE MULTIPLE INSTANCES OF ITSELF. IF YOU WANT TO GO INTO SETTINGS. KILL THE CURRENT PROCESSIN THE SYSTEM TRAY THEN RESTART IT.
 
 # HOW TO INSTALL
 
